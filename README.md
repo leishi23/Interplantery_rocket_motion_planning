@@ -1,0 +1,2 @@
+# Interplantery_rocket_motion_planning
+applied optimal control algorithm
